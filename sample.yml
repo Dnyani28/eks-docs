@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: mannam786/webpage
+          image: dnyani28/sai
           ports:
             - containerPort: 80
